@@ -12,7 +12,7 @@ Outro agravante a ser levado em consideração, é a compatibilidade entre as de
 
 Felizmente, existem algumas bibliotecas que servem de auxílio no momento de desenvolvimento. Essas bibliotecas, quando empregadas em conjunto  nos possibilitam:
 
-- A utomatização do o estilo de escrita do código. Pontuando os erros, corrigindo-os automaticamente.
+- A automatização do o estilo de escrita do código. Pontuando os erros, corrigindo-os automaticamente.
 - A customização de acordo com as necessidades do projeto.
 - Isolamento de diferentes projetos em ambientes virtuais, de modo a garantir sua independência em relação ao sistema global.
 
