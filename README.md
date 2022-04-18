@@ -314,7 +314,7 @@ Para criação do arquivo requirements.txt executar o comando:
 pip freeze > requirements.txt
 ```
 
-Para ativar o gatilho de ativação
+Para instalar as bibliotecas registradas em requirements.txt
 
 ```python
 pip install -r requirements.txt
